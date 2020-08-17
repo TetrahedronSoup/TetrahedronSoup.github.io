@@ -1,11 +1,11 @@
 # Site settings
 author: Tristan Catron
-title: 
+title: Flatiron Journey
 header-img: img/home-bg.png
 email: trilocat@gmail.com
 copyright_name: Tristan Catron
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog following me through my journey at Flatiron!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  TetrahedronSoup
